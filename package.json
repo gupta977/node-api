@@ -1,10 +1,9 @@
 {
   "name": "node-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node.js application for interacting with blockchain functionalities using Web3 Domain",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
     "build": "echo 'No build step required'"
   },
   "dependencies": {
